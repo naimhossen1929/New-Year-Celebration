@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", serif;
+}
+/* Shared Styles */
+.container{
+    margin: 50px 140px;
+    border-radius: 16px;
+    border: none;
+
+}
+/* header style */
+.header-con{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../resources/Banner\ Image.png');
+    background-size: cover;
+    background-position: center;
+    padding: 150px 340px;
+    
+}
+.new-text{
+ color: #FFF;
+text-align: center;
+font-size: 24px;
+font-weight: 400;
+}
+.party-text{
+color: #FFF;
+text-align: center;
+font-size: 52px;
+font-weight: 900;
+margin-top: 15px;
+}
