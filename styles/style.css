@@ -370,7 +370,7 @@ height: 32px;
 }
 .subscribe button{
 width: 110px;
-height: 42px;
+height: 40px;
 border-radius: 0px 50px 50px 0px;
 background: #F00;
 border: none;
@@ -389,7 +389,11 @@ footer{
     background: #070211;
     margin-bottom: 0;
 }
-
+.container-foot{
+    margin: 0px 140px;
+    border-radius: 16px;
+    border: none;
+}
 .footer-text{
     display: flex;
     justify-content: space-between;
